@@ -1,0 +1,26 @@
+[
+      {
+        "product": "tiramisu",
+        "flavour": "(depuis CookyService) kinder pingui",
+        "price": 1.30,
+        "stock": 100,
+        "description": "nutella, chocolat, spéculos",
+        "evaluation": [5, 4, 3]
+      },
+      {
+        "product": "tiramisu",
+        "flavour": "kinder bueno",
+        "price": 1.30,
+        "stock": 50,
+        "description": "kinder, chocolat, spéculos",
+        "evaluation": [5, 5, 5]
+      },
+      {
+        "product": "tiramisu",
+        "flavour": "oréo",
+        "price": 1.30,
+        "stock": 90,
+        "description": "oréo, lait, spéculos",
+        "evaluation": [5, 4, 5]
+      }
+    ]
